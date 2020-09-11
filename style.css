@@ -1,0 +1,55 @@
+* {
+	margin: 5px;
+	padding: 0;
+}
+
+main {
+	margin-top:1vh;
+	width: 1800px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+main section {
+	width: 11.95%;
+	height: 20vh;
+	margin-right: 5px;
+	float: left;
+	background-color: #ffa64d;
+}
+
+main section.ba {
+	width: 24.4%;
+	background-color: #009973;
+}
+
+main section.bu {
+	width: 24.4%;
+	background-color: #00e6ac;
+}
+
+main section.bi {
+	width: 24.4%;
+	height: 28vh;
+	background-color: #cca300;
+}
+
+main section.be {
+	width: 24.4%;
+	height: 22vh;
+	margin-top: 6.5vh;
+	background-color: #ffcc00;
+}
+
+main section.bo {
+	width: 24.4%;
+	height: 16vh;
+	margin-top: 12.5vh;
+	background-color: #ffcc66;
+}
+
+main section.bob {
+	width: 24.4%;
+	height: 10vh;
+	margin-top: 18.5vh;
+	background-color: #ffdd99;
